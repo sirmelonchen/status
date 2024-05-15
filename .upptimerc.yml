@@ -17,7 +17,7 @@ sites:
        - 403 
   - name: VPN für Interne
     url: 85.215.55.12
-    check: "tcp-ping"
+    check: "udp-ping"
     port: 1194
     expectedStatusCodes:
        - 0
