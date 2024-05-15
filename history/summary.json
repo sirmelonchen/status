@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/konstantin-beug.de.ico",
     "slug": "homepage",
     "status": "down",
-    "uptime": "0.12%",
-    "uptimeDay": "0.12%",
-    "uptimeWeek": "0.12%",
-    "uptimeMonth": "0.12%",
-    "uptimeYear": "0.12%",
-    "time": 161,
-    "timeDay": 161,
-    "timeWeek": 161,
-    "timeMonth": 161,
-    "timeYear": 161,
+    "uptime": "0.09%",
+    "uptimeDay": "0.09%",
+    "uptimeWeek": "0.09%",
+    "uptimeMonth": "0.09%",
+    "uptimeYear": "0.09%",
+    "time": 147,
+    "timeDay": 147,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-05-15": 9
+      "2024-05-15": 11
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.konstantin-beug.de.ico",
     "slug": "webmail",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 146,
+    "timeDay": 146,
+    "timeWeek": 146,
+    "timeMonth": 146,
+    "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-05-15": 8
+      "2024-05-15": 11
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.konstantin-beug.de.ico",
     "slug": "file-share",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 120,
     "timeDay": 120,
     "timeWeek": 120,
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
-      "2024-05-15": 1
+      "2024-05-15": 4
     }
   },
   {
@@ -65,18 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vpn-fuer-interne",
     "status": "down",
-    "uptime": "91.51%",
-    "uptimeDay": "91.51%",
-    "uptimeWeek": "91.51%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "91.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-05-15": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
