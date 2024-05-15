@@ -7,15 +7,12 @@ sites:
     url: https://konstantin-beug.de
   - name: Webmail
     url: https://webmail.konstantin-beug.de
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
+  - name: File Share
+    url: https://cloud.konstantin-beug.de
+  - name: VPN für Interne
+    url: 85.215.55.12
     check: "tcp-ping"
-    ipv6: true
+    port: 53
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
