@@ -21,6 +21,7 @@ sites:
     port: 1194
     expectedStatusCodes:
        - 0
+       - 503
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
