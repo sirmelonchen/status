@@ -5,14 +5,22 @@ repo: status # The name of this repository
 sites:
   - name: Homepage
     url: https://konstantin-beug.de
+    expectedStatusCodes:
+       - 403 
   - name: Webmail
     url: https://webmail.konstantin-beug.de
+    expectedStatusCodes:
+       - 403 
   - name: File Share
     url: https://cloud.konstantin-beug.de
+    expectedStatusCodes:
+       - 403 
   - name: VPN für Interne
     url: 85.215.55.12
     check: "tcp-ping"
     port: 1194
+    expectedStatusCodes:
+       - 0
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
