@@ -76,7 +76,7 @@
     "url": "mail.konstantin-beug.de",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 117,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-29": 0
+    }
   }
 ]
